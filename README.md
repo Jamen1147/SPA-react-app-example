@@ -1,1 +1,1 @@
-# SPA-react-app-example
+# Single Page Application built with react redux
