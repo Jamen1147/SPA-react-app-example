@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "My Streaming",
+      "description": "This is my first stream",
+      "userId": "107377448813312383233",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "2nd stream",
+      "userId": "107377448813312383233",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "For user ID",
+      "userId": "107377448813312383233",
+      "id": 3
+    },
+    {
+      "title": "Test Programatic Navigation",
+      "description": "Got changed  again!",
+      "userId": "107377448813312383233",
+      "id": 4
+    }
+  ]
+}
